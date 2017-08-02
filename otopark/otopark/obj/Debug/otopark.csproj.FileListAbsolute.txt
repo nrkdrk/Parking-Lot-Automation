@@ -1,0 +1,36 @@
+C:\Users\Berk\Desktop\otopark\otopark\otopark\bin\Debug\otopark.exe.config
+C:\Users\Berk\Desktop\otopark\otopark\otopark\bin\Debug\otopark.exe
+C:\Users\Berk\Desktop\otopark\otopark\otopark\bin\Debug\otopark.pdb
+C:\Users\Berk\Desktop\otopark\otopark\otopark\obj\Debug\otopark.csprojResolveAssemblyReference.cache
+C:\Users\Berk\Desktop\otopark\otopark\otopark\obj\Debug\otopark.Form1.resources
+C:\Users\Berk\Desktop\otopark\otopark\otopark\obj\Debug\otopark.Properties.Resources.resources
+C:\Users\Berk\Desktop\otopark\otopark\otopark\obj\Debug\otopark.csproj.GenerateResource.Cache
+C:\Users\Berk\Desktop\otopark\otopark\otopark\obj\Debug\otopark.exe
+C:\Users\Berk\Desktop\otopark\otopark\otopark\obj\Debug\otopark.pdb
+I:\otopark\otopark\otopark\bin\Debug\otopark.exe.config
+I:\otopark\otopark\otopark\obj\Debug\otopark.exe
+I:\otopark\otopark\otopark\bin\Debug\otopark.exe
+I:\otopark\otopark\otopark\bin\Debug\otopark.pdb
+I:\otopark\otopark\otopark\obj\Debug\otopark.csprojResolveAssemblyReference.cache
+I:\otopark\otopark\otopark\obj\Debug\otopark.Form1.resources
+I:\otopark\otopark\otopark\obj\Debug\otopark.Properties.Resources.resources
+I:\otopark\otopark\otopark\obj\Debug\otopark.csproj.GenerateResource.Cache
+I:\otopark\otopark\otopark\obj\Debug\otopark.pdb
+G:\otopark\otopark\otopark\bin\Debug\otopark.exe.config
+G:\otopark\otopark\otopark\obj\Debug\otopark.exe
+G:\otopark\otopark\otopark\obj\Debug\otopark.pdb
+G:\otopark\otopark\otopark\bin\Debug\otopark.exe
+G:\otopark\otopark\otopark\bin\Debug\otopark.pdb
+G:\otopark\otopark\otopark\obj\Debug\otopark.csprojResolveAssemblyReference.cache
+G:\otopark\otopark\otopark\obj\Debug\otopark.Form1.resources
+G:\otopark\otopark\otopark\obj\Debug\otopark.Properties.Resources.resources
+G:\otopark\otopark\otopark\obj\Debug\otopark.csproj.GenerateResource.Cache
+F:\yazılım programla\projeler\otopark\otopark\otopark\bin\Debug\otopark.exe.config
+F:\yazılım programla\projeler\otopark\otopark\otopark\bin\Debug\otopark.exe
+F:\yazılım programla\projeler\otopark\otopark\otopark\bin\Debug\otopark.pdb
+F:\yazılım programla\projeler\otopark\otopark\otopark\obj\Debug\otopark.csprojResolveAssemblyReference.cache
+F:\yazılım programla\projeler\otopark\otopark\otopark\obj\Debug\otopark.Form1.resources
+F:\yazılım programla\projeler\otopark\otopark\otopark\obj\Debug\otopark.Properties.Resources.resources
+F:\yazılım programla\projeler\otopark\otopark\otopark\obj\Debug\otopark.csproj.GenerateResource.Cache
+F:\yazılım programla\projeler\otopark\otopark\otopark\obj\Debug\otopark.exe
+F:\yazılım programla\projeler\otopark\otopark\otopark\obj\Debug\otopark.pdb
